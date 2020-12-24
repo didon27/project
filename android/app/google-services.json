@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "929163610978",
+    "firebase_url": "https://trice-d2b89.firebaseio.com",
+    "project_id": "trice-d2b89",
+    "storage_bucket": "trice-d2b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929163610978:android:2de704b1525b309163fa3b",
+        "android_client_info": {
+          "package_name": "io.instamobile.chat.rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929163610978-57922kouvrhb3ndpc9u90n1c64trabjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VgX1p2byr4ReHhXkiGnD-EIX0Bg6Byg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929163610978-57922kouvrhb3ndpc9u90n1c64trabjr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929163610978-37ra19dbs90ineevomq7cc4jfkqnv9sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.trice-test.chat.rn.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929163610978:android:e048fdbce75aba6a63fa3b",
+        "android_client_info": {
+          "package_name": "io.trice.chat.rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929163610978-3ebqfmaoj7mdat8lvirtt323dpsjvp7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.trice.chat.rn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "929163610978-cfauk2vuq4cqhqvt8rb38so1sn6q0tih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.trice.chat.rn",
+            "certificate_hash": "c35d81edc0f9465ba2ab611b697d3aa49e012b5c"
+          }
+        },
+        {
+          "client_id": "929163610978-57922kouvrhb3ndpc9u90n1c64trabjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VgX1p2byr4ReHhXkiGnD-EIX0Bg6Byg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929163610978-57922kouvrhb3ndpc9u90n1c64trabjr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929163610978-37ra19dbs90ineevomq7cc4jfkqnv9sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.trice-test.chat.rn.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

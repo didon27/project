@@ -1,0 +1,27 @@
+import { FriendshipConstants } from "../constants";
+
+export const filteredNonFriendshipsFromUsers = (keyword, users, friendships) => {
+  var filteredUsers = users;
+  if (keyword && keyword.length > 0) {
+    filteredUsers = users.filter(user => {
+      if(keyword.includes('@')) {
+        return (
+          user.email &&
+          user.email.toLowerCase().indexOf(keyword.toLowerCase()) >= 0
+        );
+        }else{
+      return (
+        user.firstName &&
+        user.firstName.toLowerCase().indexOf(keyword.toLowerCase()) >= 0
+      );
+    }
+    });
+  }
+  filteredUsers = filteredUsers.filter(user => !friendships.find(friendship => friendship.user.id == user.id));
+  return filteredUsers.map(user => {
+    return {
+      user: user,
+      type: FriendshipConstants.FriendshipType.none
+    }
+  })
+};

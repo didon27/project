@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="266c3fe8-6ff3-4e2a-a9e5-2bfc5e3f7c50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/index.android.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Core/chat/IMChat/TranslatedMessageItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Core/chat/IMChat/TranslatedMessageItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Core/chat/IMChatScreen/IMChatScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Core/chat/IMChatScreen/IMChatScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Core/chat/TranslateSettings/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Core/chat/TranslateSettings/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Core/onboarding/LoginScreen/LoginScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Core/onboarding/LoginScreen/LoginScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Core/onboarding/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Core/onboarding/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Core/ui/Logo/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Core/ui/Logo/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/af.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/af.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/ar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/az.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/az.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/bg.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/bg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/bn.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/bn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/cs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/da.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/da.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/de.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/el.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/el.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/es.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/et.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/et.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/fi.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/fi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/ha.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/ha.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/he.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/he.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/hi_IN.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/hi_IN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/hu.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/hu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/id.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/id.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/it.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/ka_GE.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/ka_GE.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/ko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/nl_NL.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/nl_NL.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/pt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/sl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/so.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/so.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/sq.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/sq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/sv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/sw.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/sw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Translations/zh_CN.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Translations/zh_CN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigations/AppNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigations/AppNavigation.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m1SIqgVYE58DD8vZsOuOAwKxgD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1608802749658" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="266c3fe8-6ff3-4e2a-a9e5-2bfc5e3f7c50" name="Default Changelist" comment="" />
+      <created>1608659527092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608659527092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1608660339427">
+      <screen x="-1920" y="-441" width="1920" height="1057" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.823/-1920.-441.1920.1057@-1920.-441.1920.1057" timestamp="1608660339427" />
+    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1608660339426">
+      <screen x="-1920" y="-441" width="1920" height="1057" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.823/-1920.-441.1920.1057@-1920.-441.1920.1057" timestamp="1608660339426" />
+    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1608660339426">
+      <screen x="-1920" y="-441" width="1920" height="1057" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.823/-1920.-441.1920.1057@-1920.-441.1920.1057" timestamp="1608660339426" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1608660339427">
+      <screen x="-1920" y="-441" width="1920" height="1057" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.823/-1920.-441.1920.1057@-1920.-441.1920.1057" timestamp="1608660339427" />
+    <state x="100" y="123" width="1221" height="582" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1608803733179">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="100" y="123" width="1221" height="582" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.823@0.23.1440.823" timestamp="1608803733179" />
+    <state x="288" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1608802738050">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="-1536" y="-185" key="com.intellij.ide.util.TipDialog/0.23.1440.823/-1920.-441.1920.1057@-1920.-441.1920.1057" timestamp="1608712389980" />
+    <state x="288" y="222" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1608802738050" />
+    <state x="-1536" y="-198" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-1920.-441.1920.1003@-1920.-441.1920.1003" timestamp="1608740780914" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/admin/trice-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/c06d429a0caf0399955599c829cbc5f0/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,135,182,234,286,353,418,480,540",
+                        "endColumns": "79,46,51,51,66,64,61,59,64",
+                        "endOffsets": "130,177,229,281,348,413,475,535,600"
+                    }
+                },
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/28af35a0c4d755c9d1943fefdc0c5025/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "11,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "605,659,713",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "654,708,755"
+                    }
+                }
+            ]
+        }
+    ]
+}

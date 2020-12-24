@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1559300223/@react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1559300223/@react-native-async-storage_async-storage.iml" group="Trice/@react-native-async-storage_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1082767749/@react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1082767749/@react-native-community_masked-view.iml" group="Trice/@react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1032765855/@react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/1032765855/@react-native-community_netinfo.iml" group="Trice/@react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trice.iml" filepath="$PROJECT_DIR$/.idea/modules/Trice.iml" group="Trice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/701718833/amazon-cognito-identity-js.iml" filepath="$PROJECT_DIR$/.idea/modules/701718833/amazon-cognito-identity-js.iml" group="Trice/amazon-cognito-identity-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Trice/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-548035326/expo-app-loader-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-548035326/expo-app-loader-provider.iml" group="Trice/expo-app-loader-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/688046674/expo-av.iml" filepath="$PROJECT_DIR$/.idea/modules/688046674/expo-av.iml" group="Trice/expo-av" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-159751486/expo-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-159751486/expo-camera.iml" group="Trice/expo-camera" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2002599762/expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/2002599762/expo-constants.iml" group="Trice/expo-constants" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1667345955/expo-facebook.iml" filepath="$PROJECT_DIR$/.idea/modules/1667345955/expo-facebook.iml" group="Trice/expo-facebook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-233901085/expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-233901085/expo-file-system.iml" group="Trice/expo-file-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-27017601/expo-haptics.iml" filepath="$PROJECT_DIR$/.idea/modules/-27017601/expo-haptics.iml" group="Trice/expo-haptics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/758861853/expo-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/758861853/expo-image-picker.iml" group="Trice/expo-image-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1484442725/expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1484442725/expo-linear-gradient.iml" group="Trice/expo-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1349062774/expo-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/1349062774/expo-localization.iml" group="Trice/expo-localization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1498459118/expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/-1498459118/expo-location.iml" group="Trice/expo-location" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/740016327/expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/740016327/expo-permissions.iml" group="Trice/expo-permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1490759826/react-native-appearance.iml" filepath="$PROJECT_DIR$/.idea/modules/-1490759826/react-native-appearance.iml" group="Trice/react-native-appearance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1029046853/react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1029046853/react-native-device-info.iml" group="Trice/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1329015436/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-1329015436/react-native-fbsdk.iml" group="Trice/react-native-fbsdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-600337263/react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/-600337263/react-native-firebase.iml" group="Trice/react-native-firebase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/650642108/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/650642108/react-native-gesture-handler.iml" group="Trice/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/117232751/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/117232751/react-native-image-crop-picker.iml" group="Trice/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2053762029/react-native-incall-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/2053762029/react-native-incall-manager.iml" group="Trice/react-native-incall-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1270593230/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1270593230/react-native-linear-gradient.iml" group="Trice/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1723651552/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1723651552/react-native-reanimated.iml" group="Trice/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/68793981/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/68793981/react-native-screens.iml" group="Trice/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1710165589/react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/1710165589/react-native-share.iml" group="Trice/react-native-share" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-368659448/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-368659448/react-native-splash-screen.iml" group="Trice/react-native-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1264021146/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1264021146/react-native-vector-icons.iml" group="Trice/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1523152625/react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/1523152625/react-native-video.iml" group="Trice/react-native-video" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1603830377/react-native-webrtc.iml" filepath="$PROJECT_DIR$/.idea/modules/-1603830377/react-native-webrtc.iml" group="Trice/react-native-webrtc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/43093253/unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/43093253/unimodules-barcode-scanner-interface.iml" group="Trice/unimodules-barcode-scanner-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1973755031/unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1973755031/unimodules-camera-interface.iml" group="Trice/unimodules-camera-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/388691747/unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/388691747/unimodules-constants-interface.iml" group="Trice/unimodules-constants-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1269590155/unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1269590155/unimodules-core.iml" group="Trice/unimodules-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1707340618/unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1707340618/unimodules-face-detector-interface.iml" group="Trice/unimodules-face-detector-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1659316940/unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1659316940/unimodules-file-system-interface.iml" group="Trice/unimodules-file-system-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1582609427/unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1582609427/unimodules-font-interface.iml" group="Trice/unimodules-font-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1178893559/unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1178893559/unimodules-image-loader-interface.iml" group="Trice/unimodules-image-loader-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1840917224/unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1840917224/unimodules-permissions-interface.iml" group="Trice/unimodules-permissions-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-605140611/unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/-605140611/unimodules-react-native-adapter.iml" group="Trice/unimodules-react-native-adapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1911261875/unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1911261875/unimodules-sensors-interface.iml" group="Trice/unimodules-sensors-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1366305193/unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1366305193/unimodules-task-manager-interface.iml" group="Trice/unimodules-task-manager-interface" />
+    </modules>
+  </component>
+</project>
